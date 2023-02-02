@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there👋
 
+<img align="right" height="400" width="200" alt="GIF" style="padding-right:10px;" src="https://media.tenor.com/SgQSyDGMAkYAAAAC/dna-spinning.gif"> 
+<br/> 
 
 
 Who am I?
@@ -23,6 +25,9 @@ Who am I?
 <img align="left" alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:10px;" />
   
-  
  [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Caglaakman)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
+
+
+
