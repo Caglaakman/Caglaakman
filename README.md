@@ -6,10 +6,10 @@
 
 Who am I?
 
-- 🔭 I’m currently studing on Molecular Biology abd Genetics at Istanbul University.
-- 🌱 I’m currently teaching and also learning Python
+- 🔭 I’m currently studing on Molecular Biology and Genetics at Istanbul University.
+- 🌱 I’m currently teaching and also learning Python.
 - 🪐 I'm planing to learn R and Javascript.
-- 💬 Ask me about anything 
+- 💬 Ask me about anything. 
 - ⚡ Fun fact: Çağla means green almond in Turkish 😄
 
 ### Connect with me:
